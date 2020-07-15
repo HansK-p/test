@@ -1,2 +1,2 @@
 # test
-This repo is only for testing
+This repo is only for testing.
