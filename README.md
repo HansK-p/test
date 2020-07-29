@@ -14,4 +14,4 @@ And further testing.
 I wonder how many levels there are?
 
 ###### Time to try yet another heading
-And give it some content.
+And give it some content. This is the heading and the heading font seems to actually be smaller than the body font.
