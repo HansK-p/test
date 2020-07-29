@@ -10,8 +10,8 @@ And more tests are made.Let us hope this is close to the last one.
 #### Check heading level 4
 And further testing.
 
-#### Heading level 5
+##### Heading level 5
 I wonder how many levels there are?
 
-#### Time to try yet another heading
+###### Time to try yet another heading
 And give it some content.
