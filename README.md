@@ -18,3 +18,6 @@ This is the last heading... that's just the way it is as there is no heading lev
 
 * Let us see what this thing looks like
 * Bullet points - nice
+
+1 Let us try creating a list
+2 With at least two item
